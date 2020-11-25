@@ -1,4 +1,4 @@
 {
-  "db": "mongodb://localhost/vidly",
+  "db": "mongodb+srv://awais:12345@myfirstcluster.onjy7.mongodb.net/test?retryWrites=true&w=majority",
   "jwtPrivateKey": "SomePrivateKey"
 }
